@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ The\ ScoreBoard\ is\ used\ to\ display\ results\ on\ the\ screen.\ It\ can\ display\ some\r\n\ text\ and\ a\ score.\r\n\ \r\n\ @author\ M\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=message\ score
+comment1.target=ScoreBoard(java.lang.String,\ int)
+comment1.text=\r\n\ Create\ a\ score\ board\ for\ the\ final\ result.\r\n\ \r\n\ @param\ message\ is\ a\ string\ data\ type\ (thats\ referenced)\ to\ message\ that\ should\ be\ on\ the\ image\r\n\ @param\ score\ is\ a\ int\ data\ type\ (thats\ referenced)\ to\ the\ score\ that\ was\ on\ the\ image\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=title\ prefix\ score
+comment2.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ Make\ the\ score\ board\ image.\r\n\ \r\n\ @param\ title\ is\ a\ string\ paramameter\ (thats\ referenced)\ to\ the\ text\ in\ the\ image\r\n\ @param\ prefix\ is\ a\ string\ paramameter\ (thats\ referenced)\ to\ the\ text\ in\ the\ image\r\n\ @param\ score\ is\ a\ int\ parameter\ (thats\ referenced)\ to\ the\ score\ which\ updates\ in\ the\ image\r\n
+numComments=3
